@@ -1,2 +1,3 @@
 test file
 local test
+local test 2
